@@ -1,0 +1,6 @@
+<html>
+<title>Registration Form</title>
+<body>
+<h1>Fill the form</h1>
+</body>
+</html>
